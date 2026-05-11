@@ -49,7 +49,7 @@ The dashboard helps in understanding:
 \---
 
 ## Sales Dashboard
-![Dashboard](Images/Dashboard_SS.png)
+![Dashboard](Images/Deshboard_SS.png)
 
 ## Sales Forecasting
 ![Forecasting](Images/Forecasting_SS.png)
