@@ -468,11 +468,14 @@ The dashboard provides meaningful business insights, while forecasting helps in 
 
 \---
 
+# Connect With Me
 
+## LinkedIn
+[Naman Rajvanshi](https://www.linkedin.com/in/naman-rajvanshi-6775a529a/)
 
-\# Author
+---
 
-
+# Author
 
 Naman Rajvanshi
 
